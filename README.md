@@ -7,7 +7,7 @@ This project applies supervised machine learning techniques to predict risk-scor
 
 **Models used :** Logistic Regression, K-Neighbors, Decision Tree and Random Forest. Logistic Regression shows the best classification performance.[Models](images/model_table.png)
 
-**Evaluation metrics :** Accuracy, Precision, Recall, F1-score and [Confusion Matrix](images/confusion_matrices.png)
+**Evaluation metrics :** Accuracy, Precision, Recall, F1-score and Confusion Matrix.
 
 **Feature Engineering :** An interecting term (age*cholesterol) and three age groups were created to help the model learn patterns better and improve prediction performance.
 
@@ -17,7 +17,7 @@ This project applies supervised machine learning techniques to predict risk-scor
 
 ## Outputs and plots
 
-**Confusion Matrix :** Shows the number of patients correctly or incorrectly classified by the model
+**[Confusion Matrix](images/confusion_matrices.png) :** Shows the number of patients correctly or incorrectly classified by the model
 **Feature Importance :** Underscores the top features contributing most to heart disease prediction 
 **Risk Score Table :** Summarizes predicted risk scores that is categorized into low, medium and high risk levels
 
