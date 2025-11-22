@@ -13,7 +13,7 @@ This project applies supervised machine learning techniques to predict risk-scor
 
 **Feature Importance :** Although Logistics Regression has higher accuracy, Random Forest was used to compute [feature importance](images/importance_table.png) as it handles nonlinear relationships better among features. ST depression, major vessels, thalassemia type, maximum heart rate, and chest pain are the most important factors affecting risl scores. 
 
-**Risk Score :** [Risk scores](images/risk_score__table.png) were categorized into low, medium and high scores.
+**Risk Score :** [Risk scores](images/risk_score__table.png) were categorized into low, medium and high scores. A [summary table](images/risk_summary_table.png) is also provided.
 
 ## Outputs and plots
 
