@@ -11,7 +11,7 @@ This project applies supervised machine learning techniques to predict risk-scor
 
 **Feature Engineering :** An interecting term (age*cholesterol) and three age groups were created to help the model learn patterns better and improve prediction performance.
 
-**Feature Importance :** Although Logistics Regression has higher accuracy, Random Forest was used to compute feature importance as it handles nonlinear relationships better among features. ST depression, major vessels, thalassemia type, maximum heart rate, and chest pain are the most important factors affecting risl scores. 
+**Feature Importance :** Although Logistics Regression has higher accuracy, Random Forest was used to compute [feature importance](images/importance_table.png) as it handles nonlinear relationships better among features. ST depression, major vessels, thalassemia type, maximum heart rate, and chest pain are the most important factors affecting risl scores. 
 
 **Risk Score :** Risk scores were categorized into low, medium and high scores.
 
