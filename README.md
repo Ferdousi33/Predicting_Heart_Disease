@@ -18,4 +18,7 @@ This project applies supervised machine learning techniques to predict risk-scor
 
 Visual outputs are in the images folder and dataset used for the project is in dataset folder.
 
+## Conclusion
+
+
 
